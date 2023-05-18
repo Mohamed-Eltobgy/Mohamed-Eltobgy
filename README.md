@@ -6,6 +6,6 @@
 </h2>
  
 <p>I'm a software developer based in Egypt. I enjoy coding open-source projects that solve unique problems. I love coding and building various projects with C++, java and python.</p>
-- 🔭 I’m currently learning in Alexandria University Computer and Systems Engineering department
-- 📫 How to reach me: es-MohamedH.Yousef2025@alexu.edu.eg
-- ⚡ Fun fact: There are 3 very different types of Hackers, one being malicious, the other benevolent, and the last somewhere in between the two.
+- 🔭 I’m currently learning in Alexandria University Computer and Systems Engineering department<br>
+- 📫 How to reach me: es-MohamedH.Yousef2025@alexu.edu.eg<br>
+- ⚡ Fun fact: It’s all 0’s and 1’s
