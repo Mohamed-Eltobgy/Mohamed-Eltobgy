@@ -1,10 +1,11 @@
-![Hey there, I'm Mohamed. I'm a software developer, Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
-<!-- 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
- -->
-# 👋 &nbsp;Hi there
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=F4DEF7&background=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+I+am+Mohamed+Eltobgy;A+Computer+Engineering+Student)](https://git.io/typing-svg)
 
-I'm a software developer based in Egypt. I enjoy coding open-source projects that solve unique problems. I love coding and building various projects with C++, java and python.
-
-&nbsp;
-
+<h2 align="Center"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" heaight ="100">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohamed-Eltobgy&color=673ab7&style=for-the-badge" alt="Profile Views" /> </p>
+</h2>
+ 
+<p>I'm a software developer based in Egypt. I enjoy coding open-source projects that solve unique problems. I love coding and building various projects with C++, java and python.</p>
+- 🔭 I’m currently learning in Alexandria University Computer and Systems Engineering department
+- 📫 How to reach me: es-MohamedH.Yousef2025@alexu.edu.eg
+- ⚡ Fun fact: There are 3 very different types of Hackers, one being malicious, the other benevolent, and the last somewhere in between the two.
