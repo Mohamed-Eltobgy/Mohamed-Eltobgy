@@ -8,4 +8,10 @@
 <p>I'm a software developer based in Egypt. I enjoy coding open-source projects that solve unique problems. I love coding and building various projects with C++, java and python.</p>
 - 🔭 I’m currently learning in Alexandria University Computer and Systems Engineering department<br>
 - 📫 How to reach me: es-MohamedH.Yousef2025@alexu.edu.eg<br>
-- ⚡ Fun fact: It’s all 0’s and 1’s
+- ⚡ Fun fact: It’s all 0’s and 1’s<br>
+<br>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Eltobgy&show_icons=true&locale=en&layout=compact" alt="Mohamed-Eltobgy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Eltobgy&show_icons=true&locale=en" alt="Mohamed-Eltobgy" /></p>
